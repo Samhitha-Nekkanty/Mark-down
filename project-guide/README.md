@@ -33,6 +33,11 @@ cat day-1.md
 ```
 
 For formatted reading, open [the journal](../day-1.md) on GitHub and select Preview when editing. Check or uncheck tasks by editing their Markdown and committing your changes.
+## Contributing
+Create a new branch, a new file and edit it. click preview and commit. pull request
+
+## Support
+Ask for help from other people and get help. Link: https://github.com/Samhitha-Nekkanty/Mark-down/edit/start-blog/project-guide/README.md 
 
 ## Expected output
 
