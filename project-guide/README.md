@@ -37,7 +37,7 @@ For formatted reading, open [the journal](../day-1.md) on GitHub and select Prev
 Create a new branch, a new file and edit it. click preview and commit. pull request
 
 ## Support
-Ask for help from other people and get help. Link: https://github.com
+Ask for help from other people and get help. Link: [issues](https://github.com) 
 
 ## Expected output
 
