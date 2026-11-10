@@ -16,7 +16,9 @@ A learning journal for students practicing technical communication with GitHub M
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+## License
 
+This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
 
 ## Prerequisites
 
