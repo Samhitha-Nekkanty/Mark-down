@@ -21,7 +21,7 @@ A learning journal for students practicing technical communication with GitHub M
 ## Prerequisites
 
 Use a web browser to read the journal on GitHub. For a local copy, install Git and a text editor. A GitHub account with repository access is required to contribute.
-
+## Usage
 ## Installation
 
 Run these commands in a terminal to download this repository, then enter its folder:
