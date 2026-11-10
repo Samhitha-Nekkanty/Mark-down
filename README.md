@@ -1,16 +1,22 @@
-# Communicate using Markdown
+# Markdown Learning Journal
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+## Overview
 
-Hey Samhitha-Nekkanty!
+A learning journal for students practicing technical communication with GitHub Markdown.
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+## Features
 
-Remember, it's self-paced so feel free to take a break! ☕️
+- Organize daily learning with headings.
+- Track practice tasks with checkboxes.
+- Explain progress using mathematical expressions.
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Samhitha-Nekkanty/Mark-down/issues/1)
+## Contents
 
----
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## Installation
 
+## Usage
