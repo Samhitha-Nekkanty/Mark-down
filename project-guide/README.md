@@ -35,7 +35,14 @@ cat day-1.md
 For formatted reading, open [the journal](../day-1.md) on GitHub and select Preview when editing. Check or uncheck tasks by editing their Markdown and committing your changes.
 ## Contributing
 Create a new branch, a new file and edit it. click preview and commit. pull request
+## Troubleshooting
+If file is not there, make sure you've cloned the repository and that you're on the right branch.
+## Review checklist
 
+- [x] Confirmed the purpose, audience, and feature descriptions are accurate.
+- [x] Followed setup and usage instructions and compared the result.
+- [x] Tested Contents and file links and checked image alternative text.
+- [x] Verified contribution, support, and license information.
 ## Support
 Ask for help from other people and get help. Link: [issues](https://github.com) 
 
