@@ -71,7 +71,7 @@ On GitHub, the same headings appear at different sizes and task markers become c
 Run these commands in a terminal to download this repository, then enter its folder:
 
 ```shell
-git clone https://github.com/YOUR-USERNAME/skills-communicate-using-markdown.git
+git clone https://github.com/SAMHITHA/skills-communicate-using-markdown.git
 cd skills-communicate-using-markdown
 ```
 
