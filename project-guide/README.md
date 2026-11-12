@@ -36,6 +36,8 @@ For formatted reading, open [the journal](../day-1.md) on GitHub and select Prev
 ## Contributing
 Create a new branch, a new file and edit it. click preview and commit. pull request
 ## Troubleshooting
+dog: day-1.md: No such file or directory:
+how to fix:
 If file is not there, make sure you've cloned the repository and that you're on the right branch.
 ## Review checklist
 
